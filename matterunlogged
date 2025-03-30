@@ -1,3 +1,6 @@
+print("Muhahahhaa its logged!")
+
+
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 --VARIABLES--
